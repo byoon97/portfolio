@@ -1,0 +1,16 @@
+export const imgArr = [
+  { id: 1, name: "HTML", img: "html.webp" },
+  { id: 2, name: "CSS", img: "css.png" },
+  { id: 3, name: "JS", img: "js.jpeg" },
+  { id: 4, name: "React", img: "react.png" },
+  { id: 5, name: "NextJS", img: "nextjs.png" },
+  { id: 6, name: "Redux", img: "redux.png" },
+  { id: 7, name: "Node", img: "node.webp" },
+  { id: 8, name: "Express", img: "express.jpg" },
+  { id: 9, name: "Tailwind", img: "tailwind.png" },
+  { id: 10, name: "Styled", img: "styledcomp.png" },
+  { id: 11, name: "PSQL", img: "postgres.png" },
+  { id: 12, name: "Strapi", img: "strapi.jpg" },
+  { id: 13, name: "Docker", img: "docker.png" },
+  { id: 14, name: "AWS", img: "aws.png" },
+];
