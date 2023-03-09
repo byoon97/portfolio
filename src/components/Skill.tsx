@@ -21,7 +21,6 @@ export default function Skill(img: ImgProps, { directonLeft }: Props) {
     <div className="group relative flex cursor-pointer">
       <motion.img
         initial={{
-          x: directonLeft ? -200 : 200,
           opacity: 0,
         }}
         transition={{ duration: 1 }}
